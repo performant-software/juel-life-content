@@ -1,0 +1,69 @@
+{
+  "content_dark_bg": "#FFFFFF",
+  "title": "Enslavement & Ancestry",
+  "font_header": "Crimson Text SemiBold",
+  "header_size": "64px",
+  "header_font_weight": "600",
+  "font_body": "Open Sans",
+  "primary_color": "#41553A",
+  "secondary_color": "#99582A",
+  "tertiary_color": "#41553A",
+  "background_color": "#F5F3EF",
+  "background_alternate": "#EBE7E0",
+  "content_color": "#222222",
+  "content_alternate": "#777269",
+  "footer": {
+    "custom": true,
+    "allow_login": false,
+    "custom_content": {
+      "background": "primary",
+      "image": "https://core-data-tina-cms.s3.us-east-1.amazonaws.com/juel-ancestry-content/ancestry_footer.png",
+      "text": "",
+      "columns": [
+        {
+          "width": "col-span-12",
+          "align": "items-center text-center",
+          "content": [
+            {
+              "text": "#### The Enslavement and Ancestry at Jefferson’s University\n",
+              "_template": "richtext"
+            },
+            {
+              "links": [
+                {
+                  "url": "/people",
+                  "label": "People"
+                },
+                {
+                  "url": "/places",
+                  "label": "Places"
+                },
+                {
+                  "url": "/stories",
+                  "label": "Stories"
+                },
+                {
+                  "url": "/ancestry",
+                  "label": "Ancestry"
+                },
+                {
+                  "url": "/documents",
+                  "label": "Documents"
+                },
+                {
+                  "url": "/images",
+                  "label": "Images"
+                },
+                {
+                  "url": "/about",
+                  "label": "About"
+                }
+              ],
+              "_template": "link_row"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
