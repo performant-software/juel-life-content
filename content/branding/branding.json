@@ -31,6 +31,10 @@
             {
               "links": [
                 {
+                  "url": "/en/pages/contact",
+                  "label": "Contact"
+                },
+                {
                   "url": "en/pages/universities",
                   "label": "Universities"
                 },
@@ -39,12 +43,12 @@
                   "label": "People"
                 },
                 {
-                  "url": "/stories",
-                  "label": "Stories"
-                },
-                {
                   "url": "/search/places",
                   "label": "Places"
+                },
+                {
+                  "url": "/stories",
+                  "label": "Stories"
                 },
                 {
                   "url": "/documents",
