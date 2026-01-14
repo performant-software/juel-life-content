@@ -31,10 +31,6 @@
             {
               "links": [
                 {
-                  "url": "/en/pages/contact",
-                  "label": "Contact"
-                },
-                {
                   "url": "en/pages/universities",
                   "label": "Universities"
                 },
@@ -61,6 +57,10 @@
                 {
                   "url": "/about",
                   "label": "About"
+                },
+                {
+                  "url": "/en/pages/contact",
+                  "label": "Contact"
                 }
               ],
               "_template": "link_row"
