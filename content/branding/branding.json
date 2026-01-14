@@ -31,8 +31,8 @@
             {
               "links": [
                 {
-                  "url": "/people",
-                  "label": "People"
+                  "url": "en/pages/universities",
+                  "label": "Universities"
                 },
                 {
                   "url": "/places",
