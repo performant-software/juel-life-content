@@ -167,16 +167,6 @@ sections:
     _template: multi_column
   - id: Team
     top_margin: 'mt-[32px] lg:mt-[64px]'
-    columns:
-      - width: col-span-12
-        content:
-          - image: >-
-              https://core-data-tina-cms.s3.us-east-1.amazonaws.com/juel-life-content/library.png
-            full_height: true
-            _template: image
-    _template: multi_column
-  - id: Team
-    top_margin: 'mt-[32px] lg:mt-[64px]'
     text_alignment: left
     columns:
       - width: col-span-3
@@ -202,6 +192,22 @@ sections:
               adipiscing ipsum.
             _template: richtext
     _template: multi_column
+  - id: Team
+    tabs:
+      - label: Team 1
+        content:
+          - columns:
+              - width: col-span-6
+                content:
+                  - text: |
+                      #### Team Name
+
+                      Person’s Name
+
+                      Title
+                    _template: richtext
+            _template: multi_column
+    _template: tabs
   - top_margin: 'mt-[64px] lg:mt-[96px]'
     bottom_margin: 'mb-[32px] lg:mb-[64px]'
     gap: large
