@@ -43,8 +43,8 @@
                   "label": "Stories"
                 },
                 {
-                  "url": "/ancestry",
-                  "label": "Ancestry"
+                  "url": "/search/places",
+                  "label": "Places"
                 },
                 {
                   "url": "/documents",
