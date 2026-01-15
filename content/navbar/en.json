@@ -2,7 +2,7 @@
   "items": [
     {
       "label": "Universities",
-      "href": "en/pages/Universities ",
+      "href": "/pages/Universities ",
       "_template": "URL"
     },
     {
