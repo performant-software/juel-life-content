@@ -4,12 +4,12 @@
       "label": "Library",
       "options": [
         {
-          "label": "Images",
-          "href": "/en/search/images"
-        },
-        {
           "label": "Documents",
           "href": "/en/search/documents"
+        },
+        {
+          "label": "Images",
+          "href": "/en/search/images"
         }
       ],
       "_template": "Dropdown"
