@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "label": "Contact",
-      "href": "/en/pages/Contact/",
-      "_template": "URL"
-    },
-    {
       "label": "Universities",
       "href": "en/pages/Universities ",
       "_template": "URL"
@@ -42,6 +37,11 @@
     {
       "label": "About",
       "href": "/en/pages/About/",
+      "_template": "URL"
+    },
+    {
+      "label": "Contact",
+      "href": "/en/pages/Contact/",
       "_template": "URL"
     }
   ]
