@@ -29,7 +29,7 @@
         },
         {
           "label": "Images",
-          "href": "/search/images"
+          "href": "/en/search/images"
         }
       ],
       "_template": "Dropdown"
