@@ -17,7 +17,7 @@
     },
     {
       "label": "Stories",
-      "href": "en/Posts",
+      "href": "/Posts",
       "_template": "URL"
     },
     {
