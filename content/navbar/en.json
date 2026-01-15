@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "label": "Places",
-      "href": "/en/search/places",
+      "label": "Stories",
+      "href": "en/Posts",
       "_template": "URL"
     },
     {
@@ -13,6 +13,11 @@
     {
       "label": "People",
       "href": "/en/search/people",
+      "_template": "URL"
+    },
+    {
+      "label": "Places",
+      "href": "/en/search/places",
       "_template": "URL"
     }
   ]
