@@ -1,9 +1,14 @@
 {
   "items": [
     {
-      "label": "Stories",
-      "href": "en/Posts",
-      "_template": "URL"
+      "label": "Library",
+      "options": [
+        {
+          "label": "Documents",
+          "href": "/en/search/documents"
+        }
+      ],
+      "_template": "Dropdown"
     },
     {
       "label": "Universities",
@@ -18,6 +23,11 @@
     {
       "label": "Places",
       "href": "/en/search/places",
+      "_template": "URL"
+    },
+    {
+      "label": "Stories",
+      "href": "en/Posts",
       "_template": "URL"
     }
   ]
