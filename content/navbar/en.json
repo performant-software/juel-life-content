@@ -1,8 +1,8 @@
 {
   "items": [
     {
-      "label": "About",
-      "href": "/en/pages/About/",
+      "label": "Contact",
+      "href": "/en/pages/Contact/",
       "_template": "URL"
     },
     {
@@ -38,6 +38,11 @@
         }
       ],
       "_template": "Dropdown"
+    },
+    {
+      "label": "About",
+      "href": "/en/pages/About/",
+      "_template": "URL"
     }
   ]
 }
