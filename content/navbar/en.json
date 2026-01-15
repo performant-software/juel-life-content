@@ -1,18 +1,9 @@
 {
   "items": [
     {
-      "label": "Library",
-      "options": [
-        {
-          "label": "Documents",
-          "href": "/en/search/documents"
-        },
-        {
-          "label": "Images",
-          "href": "/en/search/images"
-        }
-      ],
-      "_template": "Dropdown"
+      "label": "About",
+      "href": "/en/pages/About/",
+      "_template": "URL"
     },
     {
       "label": "Universities",
@@ -33,6 +24,20 @@
       "label": "Stories",
       "href": "en/Posts",
       "_template": "URL"
+    },
+    {
+      "label": "Library",
+      "options": [
+        {
+          "label": "Documents",
+          "href": "/en/search/documents"
+        },
+        {
+          "label": "Images",
+          "href": "/en/search/images"
+        }
+      ],
+      "_template": "Dropdown"
     }
   ]
 }
