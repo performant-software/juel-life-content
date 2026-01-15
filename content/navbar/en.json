@@ -1,13 +1,18 @@
 {
   "items": [
     {
-      "label": "People",
-      "href": "/en/search/people",
+      "label": "Places",
+      "href": "/en/search/places",
       "_template": "URL"
     },
     {
       "label": "Universities",
       "href": "en/pages/Universities ",
+      "_template": "URL"
+    },
+    {
+      "label": "People",
+      "href": "/en/search/people",
       "_template": "URL"
     }
   ]
