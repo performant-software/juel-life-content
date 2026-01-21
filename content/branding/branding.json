@@ -13,6 +13,8 @@
   "background_alternate": "#EBE7E0",
   "content_color": "#222222",
   "content_alternate": "#777269",
+  "content_inverse": "#FFFFFF",
+  "content_inverse_alternate": "#EBE7E0",
   "footer": {
     "custom": true,
     "allow_login": false,
