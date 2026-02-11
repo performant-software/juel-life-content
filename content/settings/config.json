@@ -3,7 +3,8 @@
     "models": {
       "people": {},
       "places": {},
-      "items": {}
+      "items": {},
+      "organizations": {}
     }
   },
   "result_filtering": {
