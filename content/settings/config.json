@@ -138,7 +138,20 @@
         "zoom_to_place": true
       },
       "result_card": {
-        "title": "name"
+        "title": "name",
+        "attributes": [
+          {
+            "name": "16ee0266-d93c-4b92-b094-65e4362a7053.0.name"
+          },
+          {
+            "name": "2d5e2c31-8513-4c39-9862-e139199e54bf.0.name"
+          }
+        ],
+        "relationships": [
+          "aeba2266-5f33-4a30-a830-b95c421d06e4",
+          "c90870ef-db2a-467a-83d4-f1efb130665f",
+          "85d7b434-8125-4d27-884f-d4ea948f88c7"
+        ]
       },
       "typesense": {
         "host": "rs8fzgh714n6bmvyp-1.a1.typesense.net",
@@ -170,7 +183,12 @@
         "zoom_to_place": true
       },
       "result_card": {
-        "title": "name"
+        "title": "name",
+        "relationships": [
+          "b7994d57-44a8-46f5-bf17-799f398cb9fa",
+          "85d7b434-8125-4d27-884f-d4ea948f88c7",
+          "37dfbf76-2764-4a38-b68e-530d15fd0bed"
+        ]
       },
       "typesense": {
         "host": "rs8fzgh714n6bmvyp-1.a1.typesense.net",
@@ -189,7 +207,7 @@
     {
       "name": "images",
       "route": "/media",
-      "type": "grid",
+      "type": "image",
       "result_card": {
         "title": "name"
       },
