@@ -87,7 +87,7 @@
   },
   "search": [
     {
-      "name": "Publications",
+      "name": "publications",
       "route": "/items",
       "type": "list",
       "typesense": {
