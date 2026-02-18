@@ -87,6 +87,19 @@
   },
   "search": [
     {
+      "name": "Publications",
+      "route": "/items",
+      "type": "list",
+      "typesense": {
+        "host": "rs8fzgh714n6bmvyp-1.a1.typesense.net",
+        "port": 443,
+        "protocol": "https",
+        "api_key": "il1F8rZjIq81FQablSXra1XYOMMnJ4Hu",
+        "index_name": "publications",
+        "query_by": "name"
+      }
+    },
+    {
       "name": "places",
       "route": "/places",
       "type": "map",
