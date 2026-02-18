@@ -90,6 +90,9 @@
       "name": "publications",
       "route": "/items",
       "type": "list",
+      "result_card": {
+        "title": "name"
+      },
       "typesense": {
         "host": "rs8fzgh714n6bmvyp-1.a1.typesense.net",
         "port": 443,
