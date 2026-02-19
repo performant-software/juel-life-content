@@ -24,6 +24,10 @@
       "label": "Library",
       "options": [
         {
+          "label": "Publications",
+          "href": "/en/search/publications"
+        },
+        {
           "label": "Documents",
           "href": "/en/search/items"
         },
