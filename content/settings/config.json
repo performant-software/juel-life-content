@@ -99,7 +99,14 @@
         "protocol": "https",
         "api_key": "il1F8rZjIq81FQablSXra1XYOMMnJ4Hu",
         "index_name": "publications",
-        "query_by": "name"
+        "query_by": "name",
+        "facets": {
+          "include": [
+            "a28f37ec-9e73-4501-a5e7-9ba156f3071c_facet",
+            "30feb9b7-c072-48e0-b9e8-56010dac4f9f.name_facet",
+            "95912c8d-4d1c-472d-b666-80079cf59512.name_facet"
+          ]
+        }
       }
     },
     {
