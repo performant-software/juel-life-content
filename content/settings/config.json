@@ -187,6 +187,7 @@
         "query_by": "name",
         "facets": {
           "include": [
+            "a5cbef01-7458-4dec-ad7b-8e75ada12730.name_facet",
             "319c320d-d278-443d-b015-95377be24b6c_facet",
             "5c75a0f7-2646-4dd4-ac2e-cfce8cac14dc_facet",
             "16ee0266-d93c-4b92-b094-65e4362a7053.name_facet",
