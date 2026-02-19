@@ -69,6 +69,13 @@
         "bb20d614-333f-40f6-b5fb-708011cb6185"
       ]
     },
+    "organizations": {
+      "exclude": [
+        "1b872ff5-d667-403d-b57a-7bf87868158c",
+        "1fb1ff7a-13bf-4ba2-9ae5-8c8a4e464433",
+        "549cc1f4-6465-467e-8987-2604defc0aa8"
+      ]
+    },
     "people": {
       "exclude": [
         "01ff9954-d5ac-4f11-929e-5451caeea3d2",
