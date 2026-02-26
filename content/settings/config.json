@@ -13,9 +13,15 @@
   "detail_pages": {
     "models": {
       "items": {},
-      "organizations": {},
-      "people": {},
-      "places": {}
+      "organizations": {
+        "resources_field": "375e36f3-f8dc-4cad-8967-5dc2b71ac2cf.e012e568-e68f-4077-8460-0e0cdd3991dc"      
+      },
+      "people": {
+        "resources_field": "3386849b-4e4e-44fc-83b5-8d318126c01c.e012e568-e68f-4077-8460-0e0cdd3991dc"      
+      },
+      "places": {
+        "resources_field": "2d53893b-b405-491c-ada3-0e000a7e8b1f.e012e568-e68f-4077-8460-0e0cdd3991dc"      
+      }
     }
   },
   "i18n": {
@@ -252,8 +258,7 @@
         "query_by": "name",
         "facets": {
           "include": [
-            "8552fc21-d6de-478d-8cbb-2216e4343183",
-            "2cfe26f4-f60a-440e-83e8-711759465586"
+            "2cfe26f4-f60a-440e-83e8-711759465586_facet"
           ]
         }
       }
